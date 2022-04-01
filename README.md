@@ -5,7 +5,7 @@ Dear all,
 
 Our first Bilibili_link project was doomed. They finished all of the duty and the mission.
 
-Here is the link of their cold body: []()
+Here is the link of their cold body: （稍等）[BaiduDisk]()
 
 Kind regards,
 
