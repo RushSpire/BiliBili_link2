@@ -1,3 +1,16 @@
+
+# Declaration
+
+Dear all,
+
+Our first Bilibili_link project was doomed. They finished all of the duty and the mission.
+
+Here is the link of their cold body: []()
+
+Kind regards,
+Git_up
+
+
 # BiliBili_link2
 
 If you are newbies, plz see [一看就懂！Github基础教程](https://www.bilibili.com/video/BV1hS4y1S7wL?from=search&seid=6610958094434042118&spm_id_from=333.337.0.0)
