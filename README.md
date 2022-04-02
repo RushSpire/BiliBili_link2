@@ -52,7 +52,7 @@ You can see a **raw** markdown code:
 
 **New** bewxy 温蒂X莫娜 -->  [微云](https://share.weiyun.com/StGmcRvC)
 
-**New** tooNe 甘雨X空 不是免费版   -->  [百度](https://pan.baidu.com/s/12Us5l96sStF294Uyh2YOcg )，(微云)(https://share.weiyun.com/0jXpNVyq)
+**New** tooNe 甘雨X空 不是免费版   -->  [百度](https://pan.baidu.com/s/12Us5l96sStF294Uyh2YOcg )，[微云](https://share.weiyun.com/0jXpNVyq)
 
 **New** 优菈酒馆 --> [微云](https://share.weiyun.com/Il8B6ivD)
 
