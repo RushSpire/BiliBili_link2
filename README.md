@@ -60,7 +60,7 @@ You can see a **raw** markdown code:
 
 Honkai P2 （b站视频被封） --> [奶牛](https://cowtransfer.com/s/2bf23dca623145)； [微云](https://share.weiyun.com/2DZN9Y7L)
 
-[神子 shirakami 夹逼定理](https://github.com/RushSpire/BiliBili_link/raw/main/Miko_%E5%A4%B9%E9%80%BC%E5%AE%9A%E7%90%862.py) [微云文件](https://share.weiyun.com/rvsdJT0X)
+神子 shirakami 夹逼定理 --> [微云文件](https://share.weiyun.com/rvsdJT0X)
 
 冰鸭加班2 --> [微云](https://share.weiyun.com/Ra8xmUbl)；[文叔叔 随时失效](https://wss1.cn/f/7vfv23lqoml)
 
