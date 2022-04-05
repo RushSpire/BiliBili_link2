@@ -50,6 +50,8 @@ You can see a **raw** markdown code:
 
 奶牛传可能会检测恶意分发，而封掉链接，无解; 百度提取码：Gitp 
 
+**New** 埃及猫猫 --> [微云](https://share.weiyun.com/053iHH7e), [奶牛](https://cowtransfer.com/s/52832b7896a348)
+
 **New** bewxy 温蒂X莫娜 -->  [微云](https://share.weiyun.com/StGmcRvC)； [奶牛](https://cowtransfer.com/s/b8cbbe6615a243)
 
 **New** tooNe 甘雨X空 不是免费版   -->  [百度](https://pan.baidu.com/s/12Us5l96sStF294Uyh2YOcg )，[微云](https://share.weiyun.com/0jXpNVyq)
