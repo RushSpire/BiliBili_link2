@@ -140,11 +140,8 @@ Yoimiya X Aether --> [Yoimiya_conv3d.py](https://github.com/RushSpire/BiliBili_l
 
 ## Manga
 
-**/*New/***   [合集1](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/%E6%9D%82/%E6%9C%AC1.zip)
+**/*New/***  长弓燧龙 合集 --->  [微云](https://share.weiyun.com/no7h11WM)；[文叔叔——随时失效]()
 
-**/*New/*** [Ganyu.gif](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/%E6%9D%82/%E7%94%98%E9%9B%A8_gif%E6%BC%AB%E7%94%BB.zip)
-
-**/*New/*** [温泉节2](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/%E6%B8%A9%E6%B3%89%E8%8A%822.zip)
 
 Ricky 大合集 --->[Yae Miko](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/Yae%20miko.zip); [CocoGoat](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/CocoGoat.zip); [Keching](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/KeChing.zip); [Raiden](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/Raiden.zip); [shenhe](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/Shenhe.zip); [Kokomi](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/kokomi.zip)
 
