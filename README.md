@@ -140,7 +140,7 @@ Yoimiya X Aether --> [Yoimiya_conv3d.py](https://github.com/RushSpire/BiliBili_l
 
 ## Manga
 
-**/*New/***  长弓燧龙 合集 --->  [微云](https://share.weiyun.com/no7h11WM)；[文叔叔——随时失效]()
+**/*New/***  长弓燧龙 合集 --->  [微云](https://share.weiyun.com/no7h11WM)；[文叔叔——随时失效](https://wss1.cn/f/8110spl1jal)
 
 
 Ricky 大合集 --->[Yae Miko](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/Yae%20miko.zip); [CocoGoat](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/CocoGoat.zip); [Keching](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/KeChing.zip); [Raiden](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/Raiden.zip); [shenhe](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/Shenhe.zip); [Kokomi](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/kokomi.zip)
