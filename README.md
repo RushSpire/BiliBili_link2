@@ -48,21 +48,23 @@ You can see a **raw** markdown code:
 
 ## Video
 
-奶牛传可能会检测恶意分发，而封掉链接，无解; 百度提取码：Gitp 
+奶牛传可能会检测恶意分发，而封掉链接，无解; 百度提取码：Gitp
+
+**New** AKT 角色人物志第一集 ->[百度](https://pan.baidu.com/s/1cIow2nbx9MIl6KoJvZhI_w) 请配合 冰鸭加班第三幕 一起服用 
 
 **New** 冰鸭加班第三幕 -->[奶牛](https://cowtransfer.com/s/d0cff056b9a841) ；[微云](https://share.weiyun.com/2jZR4cUm)
 
 冰鸭加班2 --> [微云](https://share.weiyun.com/Ra8xmUbl)；[文叔叔 随时失效](https://wss1.cn/f/7vfv23lqoml)
 
-**New** 埃及猫猫 --> [微云](https://share.weiyun.com/053iHH7e), [奶牛](https://cowtransfer.com/s/52832b7896a348)
+ 埃及猫猫 --> [微云](https://share.weiyun.com/053iHH7e), [奶牛](https://cowtransfer.com/s/52832b7896a348)
 
-**New** bewxy 温蒂X莫娜 -->  [微云](https://share.weiyun.com/StGmcRvC)； [奶牛](https://cowtransfer.com/s/b8cbbe6615a243)
+ bewxy 温蒂X莫娜 -->  [微云](https://share.weiyun.com/StGmcRvC)； [奶牛](https://cowtransfer.com/s/b8cbbe6615a243)
 
-**New** tooNe 甘雨X空 不是免费版   -->  [百度](https://pan.baidu.com/s/12Us5l96sStF294Uyh2YOcg )，[微云](https://share.weiyun.com/0jXpNVyq)
+ tooNe 甘雨X空 不是免费版   -->  [百度](https://pan.baidu.com/s/12Us5l96sStF294Uyh2YOcg )，[微云](https://share.weiyun.com/0jXpNVyq)
 
-**New** 优菈酒馆 --> [微云](https://share.weiyun.com/Il8B6ivD)
+ 优菈酒馆 --> [微云](https://share.weiyun.com/Il8B6ivD)
 
-**New** Honkai Jan（b站视频被封）   --> [奶牛](https://cowtransfer.com/s/66f05adae7934d) ； [微云](https://share.weiyun.com/bJyhGUE0)
+ Honkai Jan（b站视频被封）   --> [奶牛](https://cowtransfer.com/s/66f05adae7934d) ； [微云](https://share.weiyun.com/bJyhGUE0)
 
 Honkai P2 （b站视频被封） --> [奶牛](https://cowtransfer.com/s/2bf23dca623145)； [微云](https://share.weiyun.com/2DZN9Y7L)
 
