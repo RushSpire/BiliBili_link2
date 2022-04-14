@@ -48,9 +48,11 @@ You can see a **raw** markdown code:
 
 ## Video
 
-奶牛传可能会检测恶意分发，而封掉链接，无解; 百度提取码：Gitp
+奶牛传可能会检测恶意分发，而封掉链接，无解; 
 
-**New** AKT 角色人物志第一集 ->[百度](https://pan.baidu.com/s/1cIow2nbx9MIl6KoJvZhI_w) 请配合 冰鸭加班第三幕 一起服用 
+百度提取码：**Gitp**
+
+**New** AKT 角色人物志第一集（请配合 冰鸭加班第三幕 一起服用 ） ->[百度](https://pan.baidu.com/s/1cIow2nbx9MIl6KoJvZhI_w) 
 
 **New** 冰鸭加班第三幕 -->[奶牛](https://cowtransfer.com/s/d0cff056b9a841) ；[微云](https://share.weiyun.com/2jZR4cUm)
 
