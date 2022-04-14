@@ -52,6 +52,8 @@ You can see a **raw** markdown code:
 
 百度提取码：**Gitp**
 
+[百度不限速破解教程](https://www.cnblogs.com/softxmm/p/13972678.html#aria2)
+
 
 **New** 小女波子汽水 -->[微云](https://share.weiyun.com/ykh5QAn3)
 
