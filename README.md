@@ -39,7 +39,7 @@ Step 3: Unzip and enjoy.
 For your convenience, plz see [If you have problems of downloading](#Problems_of_downloading_connectivity). For [Windows](https://www.bilibili.com/video/BV1Eq4y1h7qm?spm_id_from=333.999.0.0), [Android](https://t.bilibili.com/627076074306595643?tab=2), and [IOS](https://t.bilibili.com/627096247773464734?tab=2).
 
 For further communication, here are QQ groups:Genshin Impact : AI Path Automation
-866805389 ; 631321239; 587220118 ;
+866805389 ; 631321239; 587220118 ;577103616
 
 # SourceCode.
 
