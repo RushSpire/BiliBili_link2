@@ -14,11 +14,15 @@ Kind regards,
 Git_up
 
 
-# BiliBili_link2
+# Before you start
 
 If you are newbies, plz see [一看就懂！Github基础教程](https://www.bilibili.com/video/BV1hS4y1S7wL?from=search&seid=6610958094434042118&spm_id_from=333.337.0.0)
 
 Remember to press **View Code**. 以下活动均不需要翻墙
+
+For your convenience, plz see [If you have problems of downloading](#Problems_of_downloading_connectivity). For [Windows](https://www.bilibili.com/video/BV1Eq4y1h7qm?spm_id_from=333.999.0.0), [Android](https://t.bilibili.com/627076074306595643?tab=2), and [IOS](https://t.bilibili.com/627096247773464734?tab=2).
+
+
 
 # Contents
 1. [Methodology](#Methodology)
@@ -35,8 +39,6 @@ Step 1: Click the link on the [SourceCode](#SourceCode) section. and start downl
 Step 2: Change file name extension to **zip**. 
 
 Step 3: Unzip and enjoy.
-
-For your convenience, plz see [If you have problems of downloading](#Problems_of_downloading_connectivity). For [Windows](https://www.bilibili.com/video/BV1Eq4y1h7qm?spm_id_from=333.999.0.0), [Android](https://t.bilibili.com/627076074306595643?tab=2), and [IOS](https://t.bilibili.com/627096247773464734?tab=2).
 
 For further communication, here are QQ groups:Genshin Impact : AI Path Automation
 866805389 ; 631321239; 587220118 ;577103616
@@ -186,14 +188,26 @@ Plz refer to [安卓必备浏览器之一，支持安装Chrome插件](https://ww
 
 
 
-# Problems_of_Downloading
+# Most Asked Questions
 
+## 1. Problem of downloading
 Please try [zwc365](https://pd.zwc365.com/), [downgit](http://zhoudaxiaa.gitee.io/downgit/#/home) or  [Gitprox](https://ghproxy.com/) or [baigekeji](https://yu.baigekeji.com) 
 and copy a file website address to the textbox.
 
 Or
 
 Please refer to BiliBili video: [一招解决Github下载慢的问题](https://www.bilibili.com/video/BV1KT4y1E7F5?spm_id_from=333.999.0.0)
+
+## 2. What should I do If I cannot change the file extensions
+
+For [如何显示文件名](https://t.bilibili.com/647841708693782534?tab=2)
+[Windows](https://www.bilibili.com/video/BV1Eq4y1h7qm?spm_id_from=333.999.0.0), 
+
+[Android](https://t.bilibili.com/627076074306595643?tab=2), and 
+
+[IOS](https://t.bilibili.com/627096247773464734?tab=2).
+
+
 
 
 ***Example 1：Download a py file:***
@@ -236,6 +250,10 @@ step 2.2 Click the **code** button, and long press the **Download ZIP**
 step 2.3 copy the link address, and goto step 1.5
 
 <img src=/视频封面/9.jpg width=30% />
+
+
+
+
 
 
 
