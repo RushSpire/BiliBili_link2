@@ -201,59 +201,12 @@ Please refer to BiliBili video: [一招解决Github下载慢的问题](https://w
 ## 2. What should I do If I cannot change the file extensions
 
 For [如何显示文件名](https://t.bilibili.com/647841708693782534?tab=2)
+
 [Windows](https://www.bilibili.com/video/BV1Eq4y1h7qm?spm_id_from=333.999.0.0), 
 
 [Android](https://t.bilibili.com/627076074306595643?tab=2), and 
 
 [IOS](https://t.bilibili.com/627096247773464734?tab=2).
-
-
-
-
-***Example 1：Download a py file:***
-
-Step 1.1: Go to the main folder and Click view code
-
-<img src=/视频封面/1.jpg width=30% />
-
-
-Step 1.2: Go to the file you would like to download.
-
-<img src=/视频封面/2.jpg width=30% />
-
-step 1.3: Clike three dots, then **Long press** the Download button, 
-
-<img src=/视频封面/3.jpg width=30% />
-
-step 1.4: Copy the link address
-
-<img src=/视频封面/4.jpg width=30% />
-
-step 1.5: Back to read me, find [zwc365](https://pd.zwc365.com/)
-
-<img src=/视频封面/5.jpg width=30% />
-
-step 1.6: Paste the link into textbox,and download.
-
-<img src=/视频封面/6.jpg width=30% />
-
-***Example 2: Download whole archive： ***
-
-step 2.1 Convert your page to desktop site.
-
-<img src=/视频封面/7.jpg width=30% />
-
-step 2.2 Click the **code** button, and long press the **Download ZIP**
-
-<img src=/视频封面/8.jpg width=30% />
-
-step 2.3 copy the link address, and goto step 1.5
-
-<img src=/视频封面/9.jpg width=30% />
-
-
-
-
 
 
 
