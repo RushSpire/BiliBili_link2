@@ -56,6 +56,8 @@ You can see a **raw** markdown code:
 
 [百度不限速破解教程](https://www.cnblogs.com/softxmm/p/13972678.html#aria2)
 
+**New** akt 蒙德群星2 --> [微云](https://share.weiyun.com/L9ShXgxA)
+
 **New** akt 蒙德群星1 --> [百度](https://pan.baidu.com/s/1a2F-VDMWOikr-IynaDyOcg)
 
 **New**  shirakami 凝光 -->  [微云](https://share.weiyun.com/TVh9Sehn)
