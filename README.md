@@ -98,7 +98,7 @@ Akt [Elysya.py](https://github.com/RushSpire/BiliBili_link/raw/main/Elysya.py)�
 
 爷太矮 还要垫脚才能够到优菈的 --> [优菈 toone](https://github.com/RushSpire/BiliBili_link/raw/main/%E4%BC%98%E8%8F%88_toone.py) ； [文叔叔](https://wss1.cn/f/7t8h0a6j5kd)
 
-神子 腋来香 --> [奶牛](https://cowtransfer.com/s/550ade4e173742),[微云](https://share.weiyun.com/PLEzCN5H)
+AKT 神子 腋来香 --> [奶牛](https://cowtransfer.com/s/550ade4e173742),[微云](https://share.weiyun.com/PLEzCN5H)
 
 tracerblogfun：Tifa  --> [py](https://github.com/RushSpire/BiliBili_link/raw/main/tifa.py) ；[奶牛](https://cowtransfer.com/s/930e8509c9dd4f)
 
