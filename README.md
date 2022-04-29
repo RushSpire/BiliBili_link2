@@ -56,21 +56,24 @@ You can see a **raw** markdown code:
 
 [百度不限速破解教程](https://www.cnblogs.com/softxmm/p/13972678.html#aria2)
 
+
+**New**akt 稻妻群星 1 -->[微云](https://pan.baidu.com/s/1x64-wughKaXbau5j_3iv-w)
+
 **New** akt 蒙德群星2 --> [微云](https://share.weiyun.com/L9ShXgxA)
 
 **New** akt 蒙德群星1 --> [百度](https://pan.baidu.com/s/1a2F-VDMWOikr-IynaDyOcg)
 
 **New**  shirakami 凝光 -->  [微云](https://share.weiyun.com/TVh9Sehn)
 
-**New** akt 璃月群星 --> [百度](https://pan.baidu.com/s/18ZVjLSC2L9KA1QaqJPBeGw) 
+akt 璃月群星 --> [百度](https://pan.baidu.com/s/18ZVjLSC2L9KA1QaqJPBeGw) 
 
-**New** 小女波子汽水 -->[微云](https://share.weiyun.com/ykh5QAn3)
+小女波子汽水 -->[微云](https://share.weiyun.com/ykh5QAn3)
 
-**New** AKT 角色人物志第2集 莫娜+云堇  --> [微云](https://share.weiyun.com/rEa8V6lZ)
+ AKT 角色人物志第2集 莫娜+云堇  --> [微云](https://share.weiyun.com/rEa8V6lZ)
 
-**New** AKT 角色人物志第一集（请配合 冰鸭加班第三幕 一起服用 ） --> [百度](https://pan.baidu.com/s/1cIow2nbx9MIl6KoJvZhI_w) 
+ AKT 角色人物志第一集（请配合 冰鸭加班第三幕 一起服用 ） --> [百度](https://pan.baidu.com/s/1cIow2nbx9MIl6KoJvZhI_w) 
 
-**New** AKT冰鸭加班第三幕 -->[奶牛](https://cowtransfer.com/s/d0cff056b9a841) ；[微云](https://share.weiyun.com/2jZR4cUm)
+ AKT冰鸭加班第三幕 -->[奶牛](https://cowtransfer.com/s/d0cff056b9a841) ；[微云](https://share.weiyun.com/2jZR4cUm)
 
 AKT冰鸭加班2 --> [微云](https://share.weiyun.com/Ra8xmUbl)；[文叔叔 随时失效](https://wss1.cn/f/7vfv23lqoml)
 
