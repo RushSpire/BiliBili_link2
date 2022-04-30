@@ -56,6 +56,7 @@ You can see a **raw** markdown code:
 
 [百度不限速破解教程](https://www.cnblogs.com/softxmm/p/13972678.html#aria2)
 
+**New**akt 稻妻群星 2 -->[百度](https://pan.baidu.com/s/1qD3LRY26LbE4pfwbY1VGEA)
 
 **New**akt 稻妻群星 1 -->[百度](https://pan.baidu.com/s/1x64-wughKaXbau5j_3iv-w)
 
