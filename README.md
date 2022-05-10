@@ -97,9 +97,6 @@ akt Honkai P2 （b站视频被封） --> [奶牛](https://cowtransfer.com/s/2bf2
 
 shirakami 神子 夹逼定理 --> [微云文件](https://share.weiyun.com/rvsdJT0X)
 
-AKT 冰鸭加班2 --> [微云](https://share.weiyun.com/Ra8xmUbl)；[文叔叔 随时失效](https://wss1.cn/f/7vfv23lqoml)
-
-AKT 原神3月女神 布洛尼亚加班记 --> [overtime with mama Bronya.py](https://github.com/RushSpire/BiliBili_link/raw/main/overtime%20with%20mama%20Bronya.py)
 
 粉色 [爱丽丝](https://github.com/RushSpire/BiliBili_link/raw/main/Aerith.py)；[微云](https://share.weiyun.com/jyEHrtBd) 
 
