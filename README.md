@@ -1,11 +1,15 @@
-
 # Declaration
+*These files are uploaded for studying only*
 
-Dear all,
 
-Our first Bilibili_link project was doomed. They finished all of the duty and the mission.
 
-Here is the link of their cold body:[Manga_BaiduDisk](https://pan.baidu.com/s/1dLFR9BXyTLiAL8LcFPYvWA)，[PYfiles_BaiduDisk](https://pan.baidu.com/s/1H-HxnokJ8ny9UAPJRlWpUw);提取码：Gitp 
+Dear visitor,
+
+Our first Bilibili_link project was down. They have finished all duties.
+
+Link to their cold bodies:
+[Manga_BaiduDisk](https://pan.baidu.com/s/1dLFR9BXyTLiAL8LcFPYvWA), 
+[PYfiles_BaiduDisk](https://pan.baidu.com/s/1H-HxnokJ8ny9UAPJRlWpUw);提取码：Gitp
 
 
 
@@ -16,11 +20,11 @@ Git_up
 
 # Before you start
 
-If you are newbies, plz see [一看就懂！Github基础教程](https://www.bilibili.com/video/BV1hS4y1S7wL?from=search&seid=6610958094434042118&spm_id_from=333.337.0.0)
+If you are new here, Please take a look at [一看就懂！Github基础教程](https://www.bilibili.com/video/BV1hS4y1S7wL)
 
-Remember to press **View Code**. 以下活动均不需要翻墙
+Remember to press **View Code** to view single file. 
 
-For your convenience, plz see [If you have problems of downloading](#Problems_of_downloading_connectivity). For [Windows](https://www.bilibili.com/video/BV1Eq4y1h7qm?spm_id_from=333.999.0.0), [Android](https://t.bilibili.com/627076074306595643?tab=2), and [IOS](https://t.bilibili.com/627096247773464734?tab=2).
+For your convenience, please go to [If you have problems of downloading](#Problems_of_downloading_connectivity). For [Windows](https://www.bilibili.com/video/BV1Eq4y1h7qm?spm_id_from=333.999.0.0), [Android](https://t.bilibili.com/627076074306595643?tab=2), and [IOS](https://t.bilibili.com/627096247773464734?tab=2).
 
 
 
@@ -52,13 +56,13 @@ You can see a **raw** markdown code:
 
 奶牛传可能会检测恶意分发，而封掉链接，无解; 
 
-百度提取码：**Gitp**
+BaiduYun Code：**Gitp**
 
 [百度不限速破解教程](https://www.cnblogs.com/softxmm/p/13972678.html#aria2)
 
 **New** 杂项1 --> [微云](https://share.weiyun.com/5uhGs5Cy)
 
-**New** akt 爷！ -->[百度](https://pan.baidu.com/s/1h2x0u3E2-l8-xNSxxD8I_Q)； [微云](https://share.weiyun.com/bU1XOYK2)
+**New** Akt 爷！ -->[百度](https://pan.baidu.com/s/1h2x0u3E2-l8-xNSxxD8I_Q)； [微云](https://share.weiyun.com/bU1XOYK2)
 
 
 **New**akt 稻妻群星 2 -->[百度](https://pan.baidu.com/s/1qD3LRY26LbE4pfwbY1VGEA)
@@ -166,7 +170,7 @@ Vicineko 莫娜大战丘丘人 --> [Evaluation_Mona_loss.py](https://github.com/
 
 ## Manga
 
-**/*New/***  长弓燧龙 合集 --->  [微云](https://share.weiyun.com/no7h11WM)；[文叔叔——随时失效](https://wss1.cn/f/8110spl1jal)
+**/*New/***  长弓燧龙 合集 --->  [微云](https://share.weiyun.com/no7h11WM)
 
 
 Ricky 大合集 --->[Yae Miko](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/Yae%20miko.zip); [CocoGoat](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/CocoGoat.zip); [Keching](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/KeChing.zip); [Raiden](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/Raiden.zip); [shenhe](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/Shenhe.zip); [Kokomi](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/kokomi.zip)
@@ -185,7 +189,7 @@ Ricky 大合集 --->[Yae Miko](https://github.com/RushSpire/BiliBili_link/raw/ma
 爆机少女喵小吉艾尔登法环-梅琳娜 --> [torrent](https://github.com/RushSpire/BiliBili_link/raw/main/Cos/%E3%80%90%E7%88%86%E6%9C%BA%E5%B0%91%E5%A5%B3%E5%96%B5%E5%B0%8F%E5%90%89%E3%80%91%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%A2%85%E7%90%B3%E5%A8%9C.zip.torrent)；    [微云文件](https://share.weiyun.com/G6QgX9hX)； [手动下载](https://github.com/RushSpire/BiliBili_link/tree/main/Cos/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF-%E6%A2%85%E7%90%B3%E5%A8%9C)
 
 
-## Tools(授之以渔)
+## Tools
 Plz refer to [安卓必备浏览器之一，支持安装Chrome插件](https://www.bilibili.com/video/BV1Pz41187SM?spm_id_from=333.999.0.0), then go back to intall following extensions.
 
 [tempermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
@@ -198,7 +202,7 @@ Plz refer to [安卓必备浏览器之一，支持安装Chrome插件](https://ww
 
 
 
-# Most Asked Questions
+# Most Frequently Asked Questions
 
 ## 1. Problem of downloading
 Please try [zwc365](https://pd.zwc365.com/), [downgit](http://zhoudaxiaa.gitee.io/downgit/#/home) or  [Gitprox](https://ghproxy.com/) or [baigekeji](https://yu.baigekeji.com) 
