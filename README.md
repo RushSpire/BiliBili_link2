@@ -56,6 +56,8 @@ You can see a **raw** markdown code:
 
 [百度不限速破解教程](https://www.cnblogs.com/softxmm/p/13972678.html#aria2)
 
+**New** PuuGuy人物志：甘雨后入式 -->[微云](https://share.weiyun.com/KG08fSUc)
+
 **New** PuuGuy人物志：甘雨后入式 -->[微云](https://share.weiyun.com/jAVH2R5Z)
 
 **New** Aline 人物志合集 -->[微云](https://share.weiyun.com/RQ6OFUxs)
