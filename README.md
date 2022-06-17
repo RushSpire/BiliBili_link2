@@ -171,7 +171,10 @@ Vicineko 莫娜大战丘丘人 --> [Evaluation_Mona_loss.py](https://github.com/
 
 ## Manga
 
-**/*New/***  长弓燧龙 合集 --->  [微云](https://share.weiyun.com/no7h11WM)；[文叔叔——随时失效](https://wss1.cn/f/8110spl1jal)
+**New** 胡桃：肉身超度真君 ---> [微云](https://share.weiyun.com/kKPyu2OV)
+
+
+长弓燧龙 合集 --->  [微云](https://share.weiyun.com/no7h11WM)；[文叔叔——随时失效](https://wss1.cn/f/8110spl1jal)
 
 
 Ricky 大合集 --->[Yae Miko](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/Yae%20miko.zip); [CocoGoat](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/CocoGoat.zip); [Keching](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/KeChing.zip); [Raiden](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/Raiden.zip); [shenhe](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/Shenhe.zip); [Kokomi](https://github.com/RushSpire/BiliBili_link/raw/main/Manga/Ricky/kokomi.zip)
