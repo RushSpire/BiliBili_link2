@@ -56,15 +56,17 @@ You can see a **raw** markdown code:
 
 [百度不限速破解教程](https://www.cnblogs.com/softxmm/p/13972678.html#aria2)
 
+**New** PuuGuy人物志：甘雨前仰式-->[微云](https://share.weiyun.com/18ogW6ET)
+
 **New** hosh1neko人物志：mona后入式 -->[微云](https://share.weiyun.com/KG08fSUc)
 
-**New** PuuGuy人物志：甘雨后入式 -->[微云](https://share.weiyun.com/jAVH2R5Z)
+PuuGuy人物志：甘雨后入式 -->[微云](https://share.weiyun.com/jAVH2R5Z)
 
-**New** Aline 人物志合集 -->[微云](https://share.weiyun.com/RQ6OFUxs)
+Aline 人物志合集 -->[微云](https://share.weiyun.com/RQ6OFUxs)
 
-**New** 杂项1 --> [微云](https://share.weiyun.com/5uhGs5Cy)
+杂项1 --> [微云](https://share.weiyun.com/5uhGs5Cy)
 
-**New** akt 爷！ -->[百度](https://pan.baidu.com/s/1h2x0u3E2-l8-xNSxxD8I_Q)； [微云](https://share.weiyun.com/bU1XOYK2)
+akt 爷！ -->[百度](https://pan.baidu.com/s/1h2x0u3E2-l8-xNSxxD8I_Q)； [微云](https://share.weiyun.com/bU1XOYK2)
 
 akt 稻妻群星 2 -->[百度](https://pan.baidu.com/s/1qD3LRY26LbE4pfwbY1VGEA)
 
