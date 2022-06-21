@@ -56,6 +56,8 @@ You can see a **raw** markdown code:
 
 [百度不限速破解教程](https://www.cnblogs.com/softxmm/p/13972678.html#aria2)
 
+**New** Vicineko 神子大战雷神 -->[微云](https://share.weiyun.com/ggrsxtop)
+
 **New** PuuGuy人物志：甘雨前仰式-->[微云](https://share.weiyun.com/18ogW6ET)
 
 **New** hosh1neko人物志：mona后入式 -->[微云](https://share.weiyun.com/KG08fSUc)
