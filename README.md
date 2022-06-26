@@ -56,6 +56,7 @@ You can see a **raw** markdown code:
 
 [百度不限速破解教程](https://www.cnblogs.com/softxmm/p/13972678.html#aria2)
 
+**New** shirakami 人物志：夜兰 -->[微云](https://share.weiyun.com/0MZwBX84)
 
 **New** PuuGuy人物志：神里凌华 -->[微云](https://share.weiyun.com/fn2PlOD5)
 
