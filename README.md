@@ -41,7 +41,8 @@ Step 2: Change file name extension to **zip**.
 Step 3: Unzip and enjoy.
 
 For further communication, here are QQ groups:Genshin Impact : AI Path Automation
-866805389 ; 631321239; 587220118 ;577103616
+
+577103616；1004533569；866805389 ; 631321239; 587220118 ;212342443； 707882627
 
 # SourceCode.
 
