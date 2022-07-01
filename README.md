@@ -57,13 +57,15 @@ You can see a **raw** markdown code:
 
 [百度不限速破解教程](https://www.cnblogs.com/softxmm/p/13972678.html#aria2)
 
+**New** bewyx 人物志合集 北斗；凝光；莫娜；香菱： [微云](https://share.weiyun.com/zl9rWwvs)
+
 **New** shirakami 人物志：夜兰 -->[微云](https://share.weiyun.com/0MZwBX84)
 
-**New** PuuGuy人物志：神里凌华 -->[微云](https://share.weiyun.com/fn2PlOD5)
+ PuuGuy人物志：神里凌华 -->[微云](https://share.weiyun.com/fn2PlOD5)
 
-**New** PuuGuy人物志：观赏鱼 -->[微云](https://share.weiyun.com/puwYDMdo)
+ PuuGuy人物志：观赏鱼 -->[微云](https://share.weiyun.com/puwYDMdo)
 
-**New** Vicineko 神子大战雷神 -->[微云](https://share.weiyun.com/ggrsxtop)
+ Vicineko 神子大战雷神 -->[微云](https://share.weiyun.com/ggrsxtop)
 
 PuuGuy人物志：甘雨前仰式-->[微云](https://share.weiyun.com/18ogW6ET)
 
