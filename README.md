@@ -57,15 +57,17 @@ You can see a **raw** markdown code:
 
 [百度不限速破解教程](https://www.cnblogs.com/softxmm/p/13972678.html#aria2)
 
+**New** bewyx 97忍人物志 [微云](https://share.weiyun.com/pBVX9y63)
+
 **New** vicineko hutao bonus [微云](https://share.weiyun.com/7bx6neFQ)
 
 **New** Toone Miko [微云](https://share.weiyun.com/FADxb5oa)
 
-**New** Choirbox 人物志合集 [微云](https://share.weiyun.com/RZ5trF5H)
+ Choirbox 人物志合集 [微云](https://share.weiyun.com/RZ5trF5H)
 
-**New** bewyx 人物志合集 北斗；凝光；莫娜；香菱： [微云](https://share.weiyun.com/NZ1OUkKe)
+ bewyx 人物志合集 北斗；凝光；莫娜；香菱： [微云](https://share.weiyun.com/NZ1OUkKe)
 
-**New** shirakami 人物志：夜兰 -->[微云](https://share.weiyun.com/0MZwBX84)
+shirakami 人物志：夜兰 -->[微云](https://share.weiyun.com/0MZwBX84)
 
  PuuGuy人物志：神里凌华 -->[微云](https://share.weiyun.com/fn2PlOD5)
 
