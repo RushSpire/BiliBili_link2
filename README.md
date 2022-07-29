@@ -49,6 +49,11 @@ For further communication, here are QQ groups:Genshin Impact : AI Path Automatio
 You can see a **raw** markdown code:
 [video name]-->[File name](File Link)
 
+## 精品小游戏
+
+暖暖温泉乡 -->[微云](https://share.weiyun.com/YpjWiSfI)
+
+
 ## Video
 
 奶牛传可能会检测恶意分发，而封掉链接，无解; 
