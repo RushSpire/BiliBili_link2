@@ -51,6 +51,8 @@ You can see a **raw** markdown code:
 
 ## 精品小黄油
 
+**New** 剧情解密小游戏 --> [微云](https://share.weiyun.com/CL1QQjoW)
+
 “暖暖温泉乡” 请在父母的陪同下游玩 --> [微云](https://share.weiyun.com/YpjWiSfI)
 
 
