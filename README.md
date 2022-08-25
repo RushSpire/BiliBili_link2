@@ -67,7 +67,13 @@ You can see a **raw** markdown code:
 [百度不限速破解教程](https://www.cnblogs.com/softxmm/p/13972678.html#aria2)
 
 
-**New** shirakami 甘雨（12/8/2022） --> [微云](https://share.weiyun.com/LIc5OPIX)
+**New** dragk：ayaka --> [微云](https://share.weiyun.com/jircqoxK)
+
+**New** 杂七毛包 --> [微云](https://share.weiyun.com/XvBWRzKp)
+
+**New** laplace 合集 --> [微云](https://share.weiyun.com/m8ETI8aq)
+
+ shirakami 甘雨（12/8/2022） --> [微云](https://share.weiyun.com/LIc5OPIX)
 
 
  Zenker 神里 --> [微云](https://share.weiyun.com/uy8jwECu)
